@@ -4,17 +4,22 @@ date: "2018-06-30"
 featuredImage: './polygonia.png'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris consectetur dolor metus, in semper purus tempus nec. Nunc porta maximus nisi eget tempus. Maecenas tellus ligula, porttitor ut ligula vitae, porta malesuada libero. 
-
+A mix of simulation and abstract building and thinking. Since the game as a whole incorporate multiple areas of gaming, the main focus of the games is to provide a calming experience in VR/AR. The game should be used as a reinforcer and also informative tool for the general population. 
 <!-- end -->
 
-Fusce at pharetra diam. Sed eget erat nibh. Nulla condimentum eros a nisi placerat, nec ultrices arcu dictum. Vestibulum nec elementum mi, id tempor ligula. Etiam ut lectus ac quam facilisis sodales. Donec laoreet justo id diam aliquet aliquet. Vivamus arcu est, varius in erat non, pharetra pulvinar magna. Fusce quis elementum nulla.
+The background for the theme of the game comes from the mental health field. Virtual Reality Therapy or commonly known as VRT, is starting to become a new type therapy for some mental illnesses treatment. Polygonia is a game that will be catered to the mental illness demographic but eventually can lead into something that the general population can use. 
+The main theme of the game will be divided into four parts:
+The first level are mainly for therapists trainees (training simulator). The VR device will be designed to train an entry level therapist who is not familiar with ABA and treatment procedures. The simulation will be in a classroom and home setting. 1:1.
+Therapists will be trained on what ABA (applied behavior analysis) treatment looks like.
 
-Nullam tristique ante quis gravida aliquet. Donec elementum, leo eu interdum mattis, erat quam vestibulum nunc, nec convallis eros risus ut enim. Sed maximus odio tincidunt velit congue molestie. Nunc in pharetra eros, id pulvinar justo. Pellentesque quis accumsan leo. Praesent efficitur magna a posuere viverra. Morbi sit amet tincidunt mauris. Vestibulum sed maximus felis. Proin in tellus eu nisi dictum posuere eu id felis. Donec eget mi sit amet neque efficitur suscipit ut ut neque. Vivamus egestas, augue vitae vestibulum feugiat, lorem elit lobortis nulla, eget ornare arcu ipsum ac lacus. Proin a suscipit ligula, non facilisis nibh. Nunc et eros magna.
+ The second is  the mid-higher end level are for professionals. This will be a training simulator that collects data and cross references with other children. I want to create a simulation that trains and also tracks the behavior patterns of real data from children with autism. 
 
->Aenean quis nisi eros. Praesent a libero et ante sagittis dictum eget id ipsum. Duis sit amet bibendum justo. Morbi faucibus vehicula bibendum. Praesent ornare hendrerit commodo. Praesent sit amet nisi mauris. Aenean maximus pharetra lacinia. Praesent efficitur erat id dolor laoreet rhoncus. Cras eu efficitur arcu. Nunc pretium, nunc sit amet rutrum molestie, arcu nisi tempus ligula, eu dapibus leo tortor in quam.
+The third level is a device that is for more of a professional standard. The simulator will have more functions in regards to data collection and analysis. After the training is completed, the program will tell the player how a clinician would choose the treatment plan for the child they are treating.
 
-Vivamus viverra id ipsum nec hendrerit. Fusce mollis enim et ultricies varius. Nam at dictum augue, id dictum augue. Fusce laoreet purus id iaculis cursus. Donec non velit est. Integer pellentesque viverra sapien, id rhoncus ipsum dictum ac. Aliquam vel maximus tortor, vitae interdum turpis. Etiam egestas elementum massa, id dictum magna suscipit vel. Curabitur mi tellus, pharetra eget nisi vitae, blandit vulputate nibh. Aenean tincidunt purus eu feugiat pulvinar. Maecenas quis laoreet lorem, a molestie urna. Cras iaculis justo elit, nec venenatis ante sollicitudin a. Cras eu pellentesque arcu, sit amet auctor felis.
+The last part of overall game is for kids- children that have autism (higher functioning mainly). The game will also track and record for the mid level professionals to see any trends. This is be the first part of the iteration. This will be a first person perspective view. 
+
+Main section of game to be completed would be the last part of the game, which is the  puzzle/builder game. There will be a virtual space where the player can go into a world and start building off the the shapes they are given. The environment will be a peaceful setting where the colors and music are all calming elements for the player. 
+
 
 ```javascript
 $(document).ready(function() {
