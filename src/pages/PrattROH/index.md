@@ -1,7 +1,7 @@
 ---
-title: Pratt Research Open House
+title:  
 date: "2019-03-30"
-featuredImage: './Prattlogo.png'
+featuredImage: './Logo.png'
 ---
 
 This project was part of Pratt Institute's own development of a mobile app. The app was designed to be a virtual tour guide for an event that would showcase all of Pratt's research in science and design. 
