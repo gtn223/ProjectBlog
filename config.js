@@ -7,11 +7,11 @@ module.exports = {
   showShareButtons: true,
   postsPerPage: 5, // Required
   social: {
-    website: 'https://ryanfitzgerald.ca',
-    github: 'https://github.com/ryanfitzgerald',
+    website: 'https://gtn223.github.io/PortfolioGrantKing/',
+    github: 'https://github.com/gtn223',
     twitter: 'https://twitter.com/ryanafitzgerald',
-    linkedin: 'https://ca.linkedin.com/in/ryanafitzgerald',
+    linkedin: 'https://www.linkedin.com/in/grant-ng/',
   },
   pathPrefix: '/devblog',
-  siteUrl: 'https://ryanfitzgerald.github.io/devblog/',
+  siteUrl: 'https://project-pages-gn.netlify.com/',
 };
