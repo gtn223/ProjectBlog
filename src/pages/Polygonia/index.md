@@ -1,5 +1,5 @@
 ---
-title: Hello World
+title: Polygonia
 date: "2018-06-30"
 featuredImage: './polygonia.png'
 ---
