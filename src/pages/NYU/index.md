@@ -20,8 +20,6 @@ These are some of the collections I have made at my time at NYU. I was responsib
 
 This is a platform that the school will use to submit and respond to building maintenance service facilities regarding safety, repair and damage control across the entire campus of NYU. Currently working with the development team in creating React components using Redux and Typescript. Front end development on React and Redux states for desktop and mobile environments.
 
-
-
 ### Treasury NYU 2018
 
 Created templates in sketch and React for design and development teams. I worked closely with the development team in creating React and Redux components converting designs into functional code. I also assisted in Q and A testing for development of accesibility codes for newly developing NYU websites. 
