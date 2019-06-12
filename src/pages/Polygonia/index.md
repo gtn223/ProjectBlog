@@ -17,9 +17,9 @@ Therapists will be trained on what ABA (applied behavior analysis) treatment loo
 
 
 ```javascript
-//Controls the animation of the shape
+
 if (Input.GetButton ("Fire1") && MostRecent ) {
-		
+
 			MostRecent.transform.Rotate (new Vector3 (x, y, z) * Time.deltaTime);
             MostRecent.transform.localScale += Vector3.one * growthScaler * maxsize * Time.deltaTime * Mathf.Sin (Time.frameCount/growthslowness);
             	}
@@ -34,6 +34,3 @@ The last part of overall game is for kids- children that have autism (higher fun
 
 Main section of game to be completed would be the last part of the game, which is the  puzzle/builder game. There will be a virtual space where the player can go into a world and start building off the the shapes they are given. The environment will be a peaceful setting where the colors and music are all calming elements for the player. 
 
-
-
-Curabitur non blandit dui. Maecenas in ipsum nec leo pellentesque sodales et nec quam. Ut ut facilisis metus, sit amet aliquam nibh. Quisque blandit dui quis augue dictum vehicula.

@@ -1,7 +1,7 @@
 ---
 title: NYU OTSS IT Projects
 date: "2018-10-15"
-featuredImage: ''
+featuredImage: './Expanded.png'
 ---
 
 NYU projects that were development inside the school's OTSS (Operations Technology Service and Support). 
