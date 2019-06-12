@@ -1,7 +1,7 @@
 ---
 title: NYU OTSS IT Projects
 date: "2018-10-15"
-featuredImage: './expanded.png'
+featuredImage: ''
 ---
 
 NYU projects that were development inside the school's OTSS (Operations Technology Service and Support). 
@@ -10,7 +10,7 @@ NYU projects that were development inside the school's OTSS (Operations Technolo
 
 <!-- end -->
 
-# About the projects 
+## About the projects 
 
 These are some of the collections I have made at my time at NYU. I was responsible for mainly UX/UI designs for NYU platforms. Most of the projects were created for NYU specifically. I was in charge of executing all visual design stages from concept to final hand-off for the development team. I created wire-frames, mock-ups, storyboards, user flows, process flows and site maps to effectively communicate interaction and design ideas. Established, promoted, and followed design guidelines, best practices, and standards for each project. Currently developing design templates in Sketch, and React.js for development and design teams. Assisting in Q and A testing for development on accessibility function for NYU websites.
 
