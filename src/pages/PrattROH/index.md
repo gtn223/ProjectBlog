@@ -14,7 +14,7 @@ This project was part of Pratt Institute's own development of a mobile app. The 
 
 When a guest arrives at Pratt on March 30th for the Research Open House event, they will be able to utilize this app to navigate to various research projects and presentations stationed around campus. The user is able to view a list of departments, buildings, presenters, and research projects, select from this list and be presented with a “follow the yellow brick road” navigation to the chosen project, view listed information about the projects within each building when clicked, and view the day’s schedule of events.
 
-[![Watch the video](./150ROH.png)](https://www.youtube.com/watch?v=jKz7ENGhmCE&feature=youtu.be)
+[Watch the video!](https://www.youtube.com/watch?v=jKz7ENGhmCE&feature=youtu.be)
 
 ## Stages of the project
 
@@ -39,7 +39,7 @@ Building specific map- This map is activated when entered through the building-s
 5. There is a button that returns the user to the main map.
 6. Once the user physically arrives in the location, the GUI pop-up listing the building’s project information is automatically re-activated.
 
-(Unity pictures here).
+![Layout](./Layout.png)
 
 ## Implementation
 
