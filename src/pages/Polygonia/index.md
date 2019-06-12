@@ -6,7 +6,7 @@ featuredImage: './polygonia.png'
 
 A mix of simulation and abstract building and thinking. Since the game as a whole incorporate multiple areas of gaming, the main focus of the games is to provide a calming experience in VR/AR. The game should be used as a reinforcer and also informative tool for the general population. 
 
-![Watch the video!](https://youtu.be/S-EaYgJZI-g)
+![Watch the video!](https://www.youtube.com/watch?v=jKz7ENGhmCE&feature=youtu.be)
 
 <!-- end -->
 
