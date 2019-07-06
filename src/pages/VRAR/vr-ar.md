@@ -1,6 +1,6 @@
 ---
-title: Hello World
-date: "2018-06-30"
+title: VR and AR Work
+date: "2018-08-26"
 featuredImage: './polygonia.png'
 ---
 
