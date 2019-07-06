@@ -4,9 +4,20 @@ date: "2018-08-26"
 featuredImage: './polygonia.png'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris consectetur dolor metus, in semper purus tempus nec. Nunc porta maximus nisi eget tempus. Maecenas tellus ligula, porttitor ut ligula vitae, porta malesuada libero. 
+This is a collection of my work in VR and AR. Most of these projects were developed in-class assignments and some for side projects as well. 
 
 <!-- end -->
+
+<!-- Project on VR dream racer -->
+This is a first-person VR experience that will revolve around telling the story of how an older person dreams about riding their old motorcycle again. The experience is meant to tell a simple story of feeling old and wishing for youthful experiences again. The player will get to experience two periods in time. The past and present. In the present, the player will see and feel what it is like to live a mundane life through the eyes of an older character. The story will be a short experience that touches on a little bit of magic in the end. There will be two Try on the headset to go through the story of an old character experiencing their old motorcycle again.
+
+We created the experience using Unreal engine and Maya modeling/animation techniques. We also did a number of audio recordings and music compostion for narration and background music. 
+
+<!--Picture of things-->
+This was one of our first concepts in creating the experience. 
+
+
+<!-- end of dream racer -->
 
 Fusce at pharetra diam. Sed eget erat nibh. Nulla condimentum eros a nisi placerat, nec ultrices arcu dictum. Vestibulum nec elementum mi, id tempor ligula. Etiam ut lectus ac quam facilisis sodales. Donec laoreet justo id diam aliquet aliquet. Vivamus arcu est, varius in erat non, pharetra pulvinar magna. Fusce quis elementum nulla.
 
