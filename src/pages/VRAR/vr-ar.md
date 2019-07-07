@@ -1,7 +1,7 @@
 ---
 title: VR and AR Work
 date: "2018-08-26"
-featuredImage: './polygonia.png'
+featuredImage: './racerposter.png'
 ---
 
 This is a collection of my work in VR and AR. Most of these projects were developed in-class assignments and some for side projects as well. 
@@ -9,12 +9,20 @@ This is a collection of my work in VR and AR. Most of these projects were develo
 <!-- end -->
 
 <!-- Project on VR dream racer -->
-This is a first-person VR experience that will revolve around telling the story of how an older person dreams about riding their old motorcycle again. The experience is meant to tell a simple story of feeling old and wishing for youthful experiences again. The player will get to experience two periods in time. The past and present. In the present, the player will see and feel what it is like to live a mundane life through the eyes of an older character. The story will be a short experience that touches on a little bit of magic in the end. There will be two Try on the headset to go through the story of an old character experiencing their old motorcycle again.
+This is a first-person VR experience that will revolve around telling the story of how an older person dreams about riding their old motorcycle again. The experience is meant to tell a simple story of feeling old and wishing for youthful experiences again. The player will get to experience two periods in time. The past and present. In the present, the player will see and feel what it is like to live a mundane life through the eyes of an older character. The story will be a short experience that touches on a little bit of magic in the end. There will be two Try on the headset to go through the story of an old character experiencing their old motorcycle again. This porject was developed with two other students from NYU.
 
 We created the experience using Unreal engine and Maya modeling/animation techniques. We also did a number of audio recordings and music compostion for narration and background music. 
 
+![Group](./roadpic.png)
+
 <!--Picture of things-->
-This was one of our first concepts in creating the experience. 
+This was one of our first concepts in creating the experience.
+
+#Mood Board
+![poster](./moodboard.png)
+
+Our first sketch detailing the general idea of how the player wiill interact with their surroundings and objects. 
+![Sketch](./sketch.png)
 
 
 <!-- end of dream racer -->
