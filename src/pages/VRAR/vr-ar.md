@@ -25,10 +25,9 @@ The team and I wanted to create a low poly type of style to the experience. We w
 Our first sketch detailing the general idea of how the player will interact with their surroundings and objects.
   ![Sketch](./sketch.png)
 
-
+<!-- The imgur link needs to end in .png!!!!-->
 #First Prototype
-[![](https://imgur.com/bqNxguv)](https://youtu.be/bwQ_m6H9wWE)
-
+[![](https://i.imgur.com/bqNxguv.png)](https://youtu.be/bwQ_m6H9wWE)
 We used the Unreal project settings for a third person game which still works in a VR headset. We eventually changed the way the player will move in the world. We wanted to get our models and objects in a space first and see if they are rendered correctly. 
 
 
