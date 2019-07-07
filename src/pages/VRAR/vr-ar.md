@@ -20,9 +20,17 @@ This was one of our first concepts in creating the experience.
 
 #Mood Board
 ![poster](./moodboard.png)
+The team and I wanted to create a low poly type of style to the experience. We were only given about a month to do this project. We thought that having a low style will look aesthetically pleasing and would require less rendering for faster prototyping. 
 
-Our first sketch detailing the general idea of how the player wiill interact with their surroundings and objects. 
-![Sketch](./sketch.png)
+Our first sketch detailing the general idea of how the player will interact with their surroundings and objects.
+  ![Sketch](./sketch.png)
+
+
+#First Prototype
+[![](https://imgur.com/bqNxguv)](https://youtu.be/bwQ_m6H9wWE)
+
+We used the Unreal project settings for a third person game which still works in a VR headset. We eventually changed the way the player will move in the world. We wanted to get our models and objects in a space first and see if they are rendered correctly. 
+
 
 
 <!-- end of dream racer -->
